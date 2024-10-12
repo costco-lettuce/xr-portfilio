@@ -1,0 +1,17 @@
+--------------------------------------------------------------------
+Undergraduate Research Assistant: July 2020 -- December 2020
+South Texas Diabetes and Obesity Institute
+--------------------------------------------------------------------
+- Collaborated with doctors to build predictive classification model in IBM SPSS to detect early onset type 2 diabetes
+- Using backward step-wise logistic regression, identified best variables to use from high dimension public NHANES dataset
+- Took non-invasive clinical measurements and carefully tested different weights for these values to determine best boundary cut-off point for our classification model
+- Further tested cut-off point for classification comparing specificity versus sensitivity and opted for a higher false positive rate so more diabetics could be captured
+- Forecasted that clinics could save up to 50% on testing procedures with use of our model versus current methods
+
+--------------------------------------------------------------------
+Associated Conferences
+--------------------------------------------------------------------
+- 5th Coastal Bend Mathematics and Statistics Conference -- Development and validation of a simple clinical construct for prediction of new type 2 diabetes mellitus
+- 2021 UTRGV SOM Research Symposium -- Development and validation of a simple clinical construct for prediction of new type 2 diabetes mellitus
+- 2021 UTRGV Spring Student Statistics Research Conference -- Development and validation of a simple clinical construct for prediction of new type 2 diabetes mellitus
+- 2021 UTRGV SOM Research Colloquium -- Accuracy of a simple clinical construct for prediction of new type 2 diabetes mellitus

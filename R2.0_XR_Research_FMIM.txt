@@ -1,0 +1,15 @@
+--------------------------------------------------------------------
+Undergraduate Data Research Assistant: January 2021 -- December 2022
+University of Texas Rio Grande Valley
+School of Mathematical and Statistical Sciences
+--------------------------------------------------------------------
+- Performed focus group interviews on selected students who scored at all ranges of our math/science attitude and STEM career alignment surveys
+- Analyzed survey responses for quality and implemented checks to reduce number of low quality responses by removing (anti)correlated questions and consolidating questions
+- Managed OneDrive data collection folder and added detailed reports on large amount of data for $1.64 million NSF grant funded project
+- Utilized R to automate documentation processes of surveys and consent records, and provided completion reports to district partners and teachers on weekly basis
+- Engaged students live and via social media by producing educational videos, skits, and other content explaining complex mathematical concepts in a fun way
+
+--------------------------------------------------------------------
+Associated Conferences
+--------------------------------------------------------------------
+- 5th Annual UTRGV STEM Education Conference -- Preliminary findings on high school students' attitude toward math and their self-reported identity measures
