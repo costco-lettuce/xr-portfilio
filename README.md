@@ -24,9 +24,8 @@ and awareness.
 
 ## Portfolio Information
 This folder contains final product presentations,
-conference agendas, additional descriptions for
-research experience, as well as my proposed degree 
-plan for graduate school*.
+conference agendas, and additional descriptions for
+research experience.
 
 ### Structure
 The files are categorized and numbered as follows:
@@ -36,11 +35,11 @@ The files are categorized and numbered as follows:
 
 Each unique item in each category is assigned a
 number. If there are no associated documents, the 
-number is an integer, i.e., X1, X2,...
+number is an integer, i.e., X1, X2, ..., etc.
 
 If there are associated documents like role
 responsibilities or presentations, they will
-be in the form X1.0, X1.1,...
+be in the form X1.0, X1.1, ..., etc.
 
 ### Descriptions
 The .txt files (research and volunteering) 
@@ -56,6 +55,6 @@ and heavy influence I have in the communities I've
 been a part of.
 
 ## Note
-*I will be attending graduate school with a full
+I will be attending graduate school with a full
 time course load in an online format, but that
 is the only sense I am "full time".
